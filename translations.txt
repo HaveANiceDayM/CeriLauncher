@@ -6,6 +6,7 @@
 [czechia]   cz:       Vítejte v destinaci Ceri Launcher
 [spain]     es:       Bienvenidos a Ceri Launcher
 [portugal]  pt:       Bem-vindo ao Ceri Launcher
+[polish]    pl:       Witaj w Ceri Launcher
 
 [america]   en-us:    Version 1.0.0
 [germany]   de:       Versionsnummer 1.0.0
@@ -14,7 +15,8 @@
 [india]     hi:       
 [czechia]   cz:       
 [spain]     es:       
-[portugal]  pt:       
+[portugal]  pt:     
+[polish]    pl:       Wersja 1.0.0
 
 [america]   en-us:    Your Android experience is about to become even more beautiful.
 [germany]   de:       Ihr Android-Erlebnis wird noch schöner.
@@ -24,3 +26,4 @@
 [czechia]   cz:       
 [spain]     es:       
 [portugal]  pt:       
+[polish]    pl:      Za chwilę Twój system Android stanie się jeszcze piękniejszy.
