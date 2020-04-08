@@ -14,7 +14,7 @@ String translate(text) {
     case "loading preferences":
       return "ładowanie preferencji";
     case "loading settings":
-      return "ładowanie ustawien";
+      return "ładowanie ustawień";
 
     //
     // ----- SETUP -----
@@ -56,7 +56,7 @@ String translate(text) {
       return "Zawsze możesz to później zmienić";
 
     case "Please choose an option to continue":
-      return "Wybierz daną opcje by kontynuować";
+      return "Wybierz daną opcję by kontynuować";
 
     case "Choose your layout":
       return "Wybierz swój układ";
@@ -97,7 +97,7 @@ String translate(text) {
     case "Choose your package":
       return "Wybierz swoją paczkę";
     case "I'm an 18-year-old UK maths student trying to save money to study Cyber Security at university.":
-      return "Jestem studentem, mam 18 lat, studiuje matematykę w Wielkiej Brytanii, by zaoszczędzić na studia z Cyber Bezpieczeństwa na Uniwesystecie";
+      return "Jestem studentem, mam 18 lat, studiuje matematykę w Wielkiej Brytanii i próbuję zaoszczędzić na studia z Cyber Bezpieczeństwa na Uniwesystecie";
     case "If you want access to all features and you don't mind sparing £2, I would be incredibly grateful!":
       return "Jeżeli chcesz uzyskać dostęp do wszystkich funkcji i nie masz nic przeciwko przekazaniu £2, będę zobowiązany!";
     case "Upgrade to pro":
@@ -107,7 +107,7 @@ String translate(text) {
     case "Restore purchase":
       return "Odnów poprzedni zakup wersji PRO";
     case "Already supported the project?":
-      return "Już wsparłeś projekt?";
+      return "Już dokonałeś zakupu wersji PRO?";
     case "Stay with free version":
       return "Pozostań przy wersji bezpłatnej";
     case "Core functionality will always be free":
@@ -142,7 +142,7 @@ String translate(text) {
       return "Ściągnij w dół by wyszukać";
 
     case "Long-press an app for options":
-      return "Długo naciśnij w ikonę aplikacji by przejśc do jej ustawień";
+      return "Długo naciśnij w ikonę aplikacji by przejść do jej ustawień";
 
     case "Close":
       return "Zamknij";
@@ -198,7 +198,7 @@ String translate(text) {
       return "Styl";
     case "Choose style (All apps, Only favorites, Tray), toggle app dimming":
       return text 
-"Wybierz styl (Wszystkie aplikacje, Tylko ulubione, dolna tacka), przełączenie przyciemniania aplikacji";
+"Wybierz styl (wszystkie aplikacje, tylko ulubione, dolna tacka), przełączenie przyciemniania aplikacji";
 
     case "Wallpapers":
       return "Tapety";
@@ -273,7 +273,7 @@ String translate(text) {
     case "Email developer":
       return "Mail do developera";
     case "Have an issue or suggestion? Really enjoying Ceri Launcher? I try to reply within a few hours ::":
-      return "Znalazłeś jakiś błąd, masz sugestię? Podoba Ci się Ceri Launcher? Spróbuję odpowiedzieć w przeciągu paru godzin ::";
+      return "Znalazłeś jakiś błąd, masz sugestię? Podoba Ci się Ceri Launcher? Próbuję odpowiadać w przeciągu paru godzin ::";
 
     case "Change language":
       return "Zmień język";
@@ -365,7 +365,7 @@ String translate(text) {
       return "Wyszukaj";
 
     case "No icon packs found.":
-      return "Nie znaleziono paczki ikon";
+      return "Nie znaleziono paczek ikon";
     case "None (default:":
       return "Brak (domyślne:";
     case "Select icon pack":
@@ -420,7 +420,7 @@ String translate(text) {
       return "Wymuś buforowanie ikon";
 
     case "Ceri Launcher utilizes the works of these people:":
-      return "Ceri launcher wykorzystuje prace tych osób:";
+      return "Ceri launcher wykorzystuje prace następujących osób:";
 
     case "EXPERIMENTAL.":
       return "EKSPERYMENTALNE.";
